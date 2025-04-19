@@ -1,1 +1,9 @@
-"[]" 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.plcoding.deeplinkingguidetypesafenavigation",
+    "sha256_cert_fingerprints":
+    ["7D:3D:5D:B6:03:D8:84:8F:06:D8:37:99:22:0E:3D:E1:63:99:C3:B2:C6:43:74:ED:5F:7D:72:C7:33:5F:01:D4"]
+  }
+}]
